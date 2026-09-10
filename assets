@@ -488,3 +488,4 @@ function renderNotesTimeline(container, notes, opts = {}) {
 function renderEmpty(container, kind) {
   container.innerHTML = `<div class="empty-state">No ${kind} yet — this is where new entries will appear once added.</div>`;
 }
+delete folder/assets/
