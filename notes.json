@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "research-methodology-intro",
+    "title": "Framing a research question in oncology",
+    "module": "Research Methodology",
+    "date": "2026-02-05",
+    "summary": "PICO, feasibility, and why a pharmacist's clinical questions need reshaping before they become answerable research questions."
+  },
+  {
+    "slug": "biostatistics-survival-analysis",
+    "title": "First pass at survival analysis",
+    "module": "Biostatistics",
+    "date": "2026-02-19",
+    "summary": "Kaplan-Meier curves, censoring, and why 'time to event' data behaves nothing like the averages I was trained on."
+  },
+  {
+    "slug": "cancer-epidemiology-foundations",
+    "title": "Incidence, prevalence, and the numbers behind cancer burden",
+    "module": "Cancer Epidemiology",
+    "date": "2026-03-12",
+    "summary": "Working through South African cancer registry data and what it does and doesn't tell us about real-world burden."
+  },
+  {
+    "slug": "molecular-oncology-basics",
+    "title": "Molecular oncology, from a pharmacology starting point",
+    "module": "Molecular Oncology",
+    "date": "2026-03-28",
+    "summary": "Mapping the hallmarks of cancer against the drug mechanisms I already knew from practice — where they meet and where they don't."
+  }
+]

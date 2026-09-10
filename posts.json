@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "starting-the-mphil",
+    "title": "Why I left the dispensary for the lab bench",
+    "tag": "Reflection",
+    "excerpt": "Six years as a pharmacist taught me how cancer treatment looks from behind the counter. This MPhil is about understanding what happens before the prescription ever reaches me.",
+    "date": "2026-02-10"
+  },
+  {
+    "slug": "reading-the-literature",
+    "title": "A pharmacist's first month inside the epidemiology literature",
+    "tag": "Coursework",
+    "excerpt": "Cohort studies, hazard ratios, confounding — notes on translating clinical instinct into the language epidemiologists actually use.",
+    "date": "2026-03-04"
+  },
+  {
+    "slug": "oncology-pharmacy-gap",
+    "title": "The gap between the guideline and the ward",
+    "tag": "Research",
+    "excerpt": "Why adherence data for oral anticancer therapies rarely matches what I saw over the counter, and what that gap might be hiding.",
+    "date": "2026-04-21"
+  }
+]
