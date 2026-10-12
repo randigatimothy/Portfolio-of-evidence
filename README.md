@@ -1,8 +1,8 @@
 # THE VAULT
 
-A personal portfolio-of-evidence website for Randiga Harnes' MPhil in Cancer
-Science at Stellenbosch University — built as a plain HTML/CSS/JS site with
-no build tools, so it can be hosted for free and edited easily over time.
+Hello world
+My name is Randiga Harnes, a pharmacist and an aspiring academic. I am currently pursuing my MPhil in Cancer Science
+from the University of Stellenbosch, in the Faculty of Medicine and Health Sciences. Through this website, you will be able to see my work, read my thoughts, and interact with my process of building research. 
 
 ## What's in here
 
