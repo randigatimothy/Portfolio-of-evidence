@@ -1,4 +1,4 @@
-# Journey Through my Postgraduate Studies
+# THE VAULT
 
 A personal portfolio-of-evidence website for Randiga Harnes' MPhil in Cancer
 Science at Stellenbosch University — built as a plain HTML/CSS/JS site with
